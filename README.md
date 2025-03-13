@@ -1,4 +1,3 @@
-# libet
-Portafolio Comercial - Estrategias alternativas de Remuneraciones
+# Portafolio Comercial 1- Estrategias alternativas de Remuneraciones
 
 # Analisis De Ventas
