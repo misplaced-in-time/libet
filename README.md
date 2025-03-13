@@ -15,6 +15,7 @@ En esta sección hay que considerar que se utiliza Capital Humano calificado y l
 
 ## Productos Veterinarios
 En esta Sección hay que considerar que se utilizan margenes de Ventas más bajos y se enfrentan mermas relacionadas a las fechas de vencimiento y problemas con el almacenamiento. 
+
 7. Farmacia: Servicio de dispensación de medicamentos recetados por el veterinario para el tratamiento de diversas condiciones de salud. Ej: Antibióticos o analgésico.
 8. Pet Shop: Área de venta de productos y accesorios para mascotas, como juguetes, correas y artículos de higiene. Ej: Alimento premium para perros o gatos.
 9. Insumos Hospitalarios: Suministros médicos y equipos necesarios para el funcionamiento diario de la clínica. Ej: Gasas, jeringas, guantes y soluciones antisépticas.
